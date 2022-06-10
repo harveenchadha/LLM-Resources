@@ -15,10 +15,11 @@
 | Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models| https://arxiv.org/pdf/2206.04615.pdf |
 
 
-## Github
+## Github (Libraries)
 | Author | Link |
 | -- | -- |
 | Big Bench (Github) | https://github.com/google/BIG-bench |
+| MUP | https://github.com/microsoft/mup |
 
 ## Youtube
 | Title | Link |
