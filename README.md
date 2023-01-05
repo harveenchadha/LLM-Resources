@@ -9,6 +9,7 @@
 ## Blog Posts
 | Author | Link |
 | -- | -- |
+| OpenAI: Better Language Models and Their Implications | https://openai.com/blog/better-language-models/ |
 | OpenAI | https://openai.com/blog/techniques-for-training-large-neural-networks/ |
 | HuggingFace | https://huggingface.co/blog/large-language-models |
 | Google | https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html |
