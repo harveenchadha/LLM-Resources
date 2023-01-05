@@ -33,9 +33,16 @@
 | OpenAI's Greg Brockman: The Future of LLMs, Foundation & Generative Models (DALL·E 2 & GPT-3) | https://www.youtube.com/watch?v=Rp3A5q9L_bg |
 | Jay Alammar - Large Language Models for Real-World Applications - A Gentle Intro | https://www.youtube.com/watch?v=xSGX8gBQDO8 |
 
+## Books
+| Title | Link |
+| -- | -- |
+| Natural Language Processing with Transformers | https://a.co/d/1wzJFBs |
+
 ## Github
 | Author | Link |
 | -- | -- |
 | Big Bench (Github) | https://github.com/google/BIG-bench |
 | MUP | https://github.com/microsoft/mup |
 | minGPT by Karpathy | https://github.com/karpathy/minGPT | 
+
+
