@@ -1,4 +1,4 @@
-# LLM
+# LLM Resources
 
 
 ## Blog Posts
