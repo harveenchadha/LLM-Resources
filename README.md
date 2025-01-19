@@ -1,5 +1,16 @@
 # LLM Resources
 
+## 2025
+
+| Agents | Link |
+| -- | -- |
+| Google Whitepaper | https://drive.google.com/file/d/1oEjiRCTbd54aSdB_eEe3UShxLBWK9xkt/view?pli=1 | 
+| Antrhopic | https://www.anthropic.com/research/building-effective-agents |
+| Chip Huyen | https://huyenchip.com/2025/01/07/agents.html |
+| Sam Altman - General Writeup | https://blog.samaltman.com/reflections |
+
+
+
 ## Course
 | Title | Link |
 | -- | -- |
